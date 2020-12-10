@@ -1,14 +1,14 @@
 # Bowling 
 This description is based on that at Adventures in C#: The Bowling Game
 
-##Problem Description
+## Problem Description
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game. Here are some things that the program will not do:
 
 * We will not check for valid rolls.
 * We will not check for correct number of rolls and frames.
 * We will not provide scores for intermediate frames.
 
-####We can briefly summarize the scoring for this form of bowling:
+#### We can briefly summarize the scoring for this form of bowling:
 
 Each game, or “line” of bowling, includes ten turns, or “frames” for the bowler.
 * In each frame, the bowler gets up to two tries to knock down all the pins.
