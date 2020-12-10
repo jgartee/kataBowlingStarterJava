@@ -5,4 +5,7 @@ package kataBowlingStarterJava;
 
 public class Game {
 
+    public boolean checkPlumbing() {
+        return true;
+    }
 }
