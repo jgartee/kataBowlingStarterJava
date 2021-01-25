@@ -101,3 +101,6 @@ build
 
 # Mac OS X files
 .DS_Store
+
+# IntelliJ IDEA non-project files
+.idea/
